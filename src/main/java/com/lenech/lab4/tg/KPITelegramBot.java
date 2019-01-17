@@ -42,6 +42,6 @@ public class KPITelegramBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "692962048:AAG0_IqNZFUyY78V59AFh4y17uwVwKFtttc";
+        return "692962048:AAAG0_IqNZFUyY78V59AFh4y17uwVwKFtttc";
     }
 }
